@@ -2,28 +2,214 @@
     "Categories": 
         [
             {
-                "name": "KitKat"
+                "name": "Akai"
             },
             {
-                "name": "Lollipop"
+                "name": "Alice"
+            },
+            {
+                "name": "Alpha"
+            },
+            {
+                "name": "Alucard"
+            },
+            {
+                "name": "Argus"
+            },
+            {
+                "name": "Aurora"
+            },
+            {
+                "name": "Balmond"
+            },
+            {
+                "name": "Bane"
+            },
+            {
+                "name": "Bruno"
+            },
+            {
+                "name": "Chou"
+            },
+            {
+                "name": "clint"
+            },
+            {
+                "name": "Cyclops"
+            },
+            {
+                "name": "Diggi"
+            },
+            {
+                "name": "Eudora"
+            }
+			{
+                "name": "Estes"
+            },
+			{
+                "name": "Fanny"
+            },
+			{
+                "name": "Gatot Kaca"
+            },
+			{
+                "name": "Gord"
+            },
+			{
+                "name": "Grock"
+            },
+			{
+                "name": "Harley"
+            },
+			{
+                "name": "Hayabusa"
+            },
+			{
+                "name": "Helcurt"
+            },
+			{
+                "name": "Hilda"
+            },
+			{
+                "name": "Hylos"
+            },
+			{
+                "name": "Johnson"
+            },
+			{
+                "name": "Kagura"
+            },
+			{
+                "name": "Karina"
+            },
+			{
+                "name": "Karrie"
+            },
+			{
+                "name": "Lancelot"
+            },
+			{
+                "name": "Lapu-Lapu"
+            },
+			{
+                "name": "Layla"
+            },
+			{
+                "name": "Lesley"
+            },
+			{
+                "name": "Lolita"
+            },
+			{
+                "name": "Minotaur"
+            },
+			{
+                "name": "Miya"
+            },
+			{
+                "name": "Moskov"
+            },
+			{
+                "name": "Nana"
+            },
+			{
+                "name": "Natalia"
+            },
+			{
+                "name": "Odette"
+            },
+			{
+                "name": "Pharsa"
+            },
+			{
+                "name": "Rafaela"
+            },
+			{
+                "name": "Roger"
+            },
+			{
+                "name": "Ruby"
+            },
+			{
+                "name": "Saber"
+            },
+			{
+                "name": "Sun"
+            },
+			{
+                "name": "Tigreal"
+            },
+			{
+                "name": "Vexana"
+            },
+			{
+                "name": "Yi Sun-Shin"
+            },
+			{
+                "name": "Zhask"
+            },
+			{
+                "name": "Zilong"
             }
         ],
-
-    "Wallpapers":
+    
+	"Wallpapers":
         [
-            {
-		"author": "Taken from androidpolice",
-		"url": "http://www.androidpolice.com/wp-content/uploads/2014/10/nexus2cee_lollipop-wallpaper-01.jpg",
-		"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5M0NoYUlTU3lFY1U",
-		"name": "L Wallpaper 1",
-                "category": "lollipop"
-	     },
-             {
-		"author": "Taken from androidpolice",
-		"url": "http://www.androidpolice.com/wp-content/uploads/2013/11/nexusae0_wallpaper_50.jpg",
-		"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5Wk16eXdqQlR5eE0",
-		"name": "Kitkat Wallpaper 1",
-                "category": "kitkat"
-	    }
-        ]
+			{
+				"author": "Mobile Legends",
+				"url": "http://app.idtechn.net/imageml/akai1.jpg",
+				"thumbUrl": "http://app.idtechn.net/imageml/akai1.jpg",
+				"name": "AKai Panda Warior",
+                "category": "Akai"
+			},
+			{
+				"author": "Mobile Legends",
+				"url": "http://app.idtechn.net/imageml/akai2.jpg",
+				"thumbUrl": "http://app.idtechn.net/imageml/akai2.jpg",
+				"name": "Akai Soccer Titan",
+                "category": "Akai"
+			},
+			{
+				"author": "Mobile Legends",
+				"url": "http://app.idtechn.net/imageml/akai3.jpeg",
+				"thumbUrl": "http://app.idtechn.net/imageml/akai3.jpeg",
+				"name": "Akai Panda Warior 2",
+                "category": "Akai"
+			},
+			{
+				"author": "Mobile Legends",
+				"url": "http://app.idtechn.net/imageml/akai4.jpg",
+				"thumbUrl": "http://app.idtechn.net/imageml/akai4.jpg",
+				"name": "Akai Monk",
+                "category": "Akai"
+			},
+			{
+				"author": "Mobile Legends",
+				"url": "http://app.idtechn.net/imageml/akai5.jpg",
+				"thumbUrl": "http://app.idtechn.net/imageml/akai5.jpg",
+				"name": "Akai Summer Party",
+                "category": "Akai"
+			},
+			{
+				"author": "Mobile Legends",
+				"url": "http://app.idtechn.net/imageml/alice1.jpg",
+				"thumbUrl": "http://app.idtechn.net/imageml/alice1.jpg",
+				"name": "Alice Queen of the Apocalypse",
+                "category": "Alice"
+			},
+			{
+				"author": "Mobile Legends",
+				"url": "http://app.idtechn.net/imageml/alice2.jpg",
+				"thumbUrl": "http://app.idtechn.net/imageml/alice2.jpg",
+				"name": "Alice Spirit Woman",
+                "category": "Alice"
+			},
+			{
+				"author": "Mobile Legends",
+				"url": "",
+				"thumbUrl": "",
+				"name": "",
+                "category": "Alice"
+			}
+		]
 }
