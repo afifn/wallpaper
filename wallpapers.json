@@ -286,34 +286,6 @@
                 "category": "mountain"
 			},
             {
-				"author": "Elliott Engelmann",
-				"url": "https://unsplash.it/4835/3223?image=992",
-				"thumbUrl": "https://unsplash.it/300/400?image=992",
-				"name": "Meru West, Tanzania",
-                "category": "sunset,mountain"
-			},
-            {
-				"author": "Roberto Nickson",
-				"url": "https://unsplash.it/4835/3223?image=1011",
-				"thumbUrl": "https://unsplash.it/300/400?image=1011",
-				"name": "Lake Louise, Canada",
-                "category": "people"
-			},
-            {
-				"author": "Erez Attias",
-				"url": "https://unsplash.it/4835/3223?image=1033",
-				"thumbUrl": "https://unsplash.it/400/200?image=1033",
-				"name": "Zurich Airport",
-                "category": "architecture"
-			},
-            {
-				"author": "Anna Anikina",
-				"url": "https://unsplash.it/4835/3223?image=981",
-				"thumbUrl": "https://unsplash.it/400/320?image=981",
-				"name": "Mountain 981",
-                "category": "Mountain"
-			},
-            {
 				"author": "Pierre Bouillot",
 				"url": "https://unsplash.it/4835/3223?image=907",
 				"thumbUrl": "https://unsplash.it/400/200?image=907",
@@ -368,6 +340,34 @@
 			"thumbUrl": "https://images.unsplash.com/photo-1505692433770-36f19f51681d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8bcdbe06db0552d21be040922f2ca40d&auto=format&fit=crop&w=750&q=80",
 			"name": "Info house",
 			"category": "House"
-		}
+		},
+		{
+				"author": "Elliott Engelmann",
+				"url": "https://unsplash.it/4835/3223?image=992",
+				"thumbUrl": "https://unsplash.it/300/400?image=992",
+				"name": "Meru West, Tanzania",
+                "category": "sunset,mountain"
+			},
+            {
+				"author": "Roberto Nickson",
+				"url": "https://unsplash.it/4835/3223?image=1011",
+				"thumbUrl": "https://unsplash.it/300/400?image=1011",
+				"name": "Lake Louise, Canada",
+                "category": "people"
+			},
+            {
+				"author": "Erez Attias",
+				"url": "https://unsplash.it/4835/3223?image=1033",
+				"thumbUrl": "https://unsplash.it/400/200?image=1033",
+				"name": "Zurich Airport",
+                "category": "architecture"
+			},
+            {
+				"author": "Anna Anikina",
+				"url": "https://unsplash.it/4835/3223?image=981",
+				"thumbUrl": "https://unsplash.it/400/320?image=981",
+				"name": "Mountain 981",
+                "category": "Mountain"
+			}
 		]
 }
