@@ -320,12 +320,19 @@
 				"name": "Outsite Venice Beach Living Room",
                 "category": "House"
 			},
-            {
-                "author":"Pierre",
-                "url": "https://porting-team.ru/wp-content/uploads/2017/09/flowers_peonies_bicycle_hand_117104_5472x3648.jpg",
-                "thumbUrl": "https://porting-team.ru/wp-content/uploads/2017/09/flowers_peonies_bicycle_hand_117104_5472x3648.jpg",
-                "name": "Flowers peonies bicycle",
-                "category": "Forest,people"
-            }
+                {
+			"author":"Pierre",
+			"url": "https://porting-team.ru/wp-content/uploads/2017/09/flowers_peonies_bicycle_hand_117104_5472x3648.jpg",
+			"thumbUrl": "https://porting-team.ru/wp-content/uploads/2017/09/flowers_peonies_bicycle_hand_117104_5472x3648.jpg",
+			"name": "Flowers peonies bicycle",
+			"category": "Forest,people"
+		},
+		{
+			"author":"NeONBRAND",
+			"url": "https://images.unsplash.com/photo-1505692433770-36f19f51681d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8bcdbe06db0552d21be040922f2ca40d&auto=format&fit=crop&w=750&q=80",
+			"thumbUrl": "https://images.unsplash.com/photo-1505692433770-36f19f51681d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8bcdbe06db0552d21be040922f2ca40d&auto=format&fit=crop&w=750&q=80",
+			"name": "Info house",
+			"category": "House"
+		}
 		]
 }
