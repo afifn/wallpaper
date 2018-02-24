@@ -443,6 +443,13 @@
             	"thumbUrl": "http://wallrox.com/rox/thumb/aerialview/papr36.png",
             	"name": "Aerialview 36",
             	"category": "Aerialview"
-            }
-	]
+            },
+					{
+				"author": "Taken from androidpolice",
+				"url": "http://www.androidpolice.com/wp-content/uploads/2013/11/nexusae0_wallpaper_51.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5Mmh0TGVDS2NNc2M",
+				"name": "Kitkat Wallpaper 2",
+                "category": "kitkat"
+			}
+		]
 }
