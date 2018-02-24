@@ -446,13 +446,6 @@
             	"thumbUrl": "http://wallrox.com/rox/thumb/aerialview/papr36.png",
             	"name": "Aerialview 36",
             	"category": "Aerialview"
-            },
-		{
-		"author": "Sweet Ice Cream Photography",
-		"url": "https://images.unsplash.com/photo-1467878993551-5b1d2717cdbd",
-		"thumbUrl": "https://images.unsplash.com/photo-1467878993551-5b1d2717cdbd",
-		"name": "Ars-en-Ré, France",
-		"category": "Universe"
-	    }
-		]
+            }
+	]
 }
