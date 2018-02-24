@@ -7,9 +7,6 @@
 	    {
 		"name": "Abstract"
 	    },
-		{
-		"name": "Universe"
-	    },
             {
                 "name": "Architecture"
             },
@@ -446,13 +443,6 @@
             	"thumbUrl": "http://wallrox.com/rox/thumb/aerialview/papr36.png",
             	"name": "Aerialview 36",
             	"category": "Aerialview"
-            },
-		{
-            	"author": "Kate Romero",
-            	"url": "https://images.pexels.com/photos/32237/pexels-photo.jpg",
-            	"thumbUrl": "https://images.pexels.com/photos/32237/pexels-photo.jpg",
-            	"name": "Universe 1",
-            	"category": "Universe"
             }
 		]
 }
