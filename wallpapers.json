@@ -7,6 +7,12 @@
             {
                 "name": "Architecture"
             },
+		{
+		"name": "Abstract"
+	    },
+		{
+		"name": "Aerialview"
+		},
             {
                 "name": "City"
             },
