@@ -13,6 +13,9 @@
 		{
 		"name": "Aerialview"
 		},
+		{
+		"name": "Universe"
+		},
             {
                 "name": "City"
             },
@@ -388,6 +391,13 @@
             	"name": "Aerialview 36",
             	"category": "Aerialview"
             },
+		{
+		"author": "Kate Romero",
+		"url": "https://images.pexels.com/photos/32237/pexels-photo.jpg",
+		"thumbUrl": "https://images.pexels.com/photos/32237/pexels-photo.jpg",
+		"name": "Universe 1",
+		"category": "Universe"
+	    },
             {
                 "author":"Test",
                 "url": "https://porting-team.ru/wp-content/uploads/2017/09/flowers_peonies_bicycle_hand_117104_5472x3648.jpg",
