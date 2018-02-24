@@ -403,7 +403,7 @@
             	"url": "https://images.unsplash.com/photo-1467810160588-c86c0deb5d16",
             	"thumbUrl": "https://images.unsplash.com/photo-1467810160588-c86c0deb5d16?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1e2ad249c3814d6110c569f71e338762&auto=format&fit=crop&w=750&q=80",
             	"name": "Universe 2",
-            	"category": "Universe"
+            	"category": "Universe,Satellite"
             },
 		{
             	"author": "Greg Rakozy",
@@ -423,7 +423,7 @@
             	"url": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86",
             	"thumbUrl": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2d8d433acb5dbf4d2478af28854ff90a&auto=format&fit=crop&w=750&q=80",
             	"name": "Universe 5",
-            	"category": "Universe"
+            	"category": "Universe,Satellite"
             },{
             	"author": "Mark Basarab",
             	"url": "https://images.unsplash.com/photo-1470813740244-df37b8c1edcb",
@@ -459,25 +459,25 @@
             	"url": "https://images.unsplash.com/photo-1457327289196-f38b88d97147",
             	"thumbUrl": "https://images.unsplash.com/photo-1457327289196-f38b88d97147?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2d7eaa5c490c923ceb7da8d1791c2cae&auto=format&fit=crop&w=1504&q=80",
             	"name": "Universe 11",
-            	"category": "Universe"
+            	"category": "Universe,Satellite"
             },{
             	"author": "NASA",
             	"url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
             	"thumbUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-0.3.5&s=95ce75e9d08a87493ed54df5c353542d&auto=format&fit=crop&w=752&q=80",
             	"name": "Universe 12",
-            	"category": "Universe"
+            	"category": "Universe,Satellite"
             },{
             	"author": "NASA",
             	"url": "https://images.unsplash.com/photo-1447433865958-f402f562b843",
             	"thumbUrl": "https://images.unsplash.com/photo-1447433865958-f402f562b843?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=610f0c26ab32143f085d4488eced7b55&auto=format&fit=crop&w=752&q=80",
             	"name": "Universe 13",
-            	"category": "Universe"
+            	"category": "Universe,Satellite"
             },{
             	"author": "NASA",
             	"url": "https://images.unsplash.com/photo-1446776858070-70c3d5ed6758",
             	"thumbUrl": "https://images.unsplash.com/photo-1446776858070-70c3d5ed6758?ixlib=rb-0.3.5&s=2424e4c6f15be1ee6f214c59ef3d19cd&auto=format&fit=crop&w=752&q=80",
             	"name": "Universe 14",
-            	"category": "Universe"
+            	"category": "Universe,Satellite"
             },{
             	"author": "Sweet Ice Cream Photography",
             	"url": "https://images.unsplash.com/photo-1467878993551-5b1d2717cdbd",
