@@ -7,6 +7,9 @@
 	    {
 		"name": "Abstract"
 	    },
+		{
+		"name": "Universe"
+	    },
             {
                 "name": "Architecture"
             },
@@ -447,12 +450,110 @@
             	"name": "Aerialview 36",
             	"category": "Aerialview"
             },
-					{
-				"author": "Taken from androidpolice",
-				"url": "http://www.androidpolice.com/wp-content/uploads/2013/11/nexusae0_wallpaper_51.jpg",
-				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5Mmh0TGVDS2NNc2M",
-				"name": "Kitkat Wallpaper 2",
-                "category": "kitkat"
-			}
+		{
+		"author": "Kate Romero",
+		"url": "https://images.pexels.com/photos/32237/pexels-photo.jpg",
+		"thumbUrl": "https://images.pexels.com/photos/32237/pexels-photo.jpg",
+		"name": "Universe 1",
+		"category": "Universe"
+	    },
+		{
+		"author": "Thom Schneider",
+		"url": "https://images.unsplash.com/photo-1467810160588-c86c0deb5d16",
+		"thumbUrl": "https://images.unsplash.com/photo-1467810160588-c86c0deb5d16?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1e2ad249c3814d6110c569f71e338762&auto=format&fit=crop&w=750&q=80",
+		"name": "Universe 2",
+		"category": "Universe"
+	    },
+		{
+		"author": "Greg Rakozy",
+		"url": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3",
+		"thumbUrl": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixlib=rb-0.3.5&s=ce32af2267a9ebd8e2e7bce30a59891f&auto=format&fit=crop&w=750&q=80",
+		"name": "Universe 2",
+		"category": "Universe"
+	    },
+		{
+		"author": "Ryan Hutton",
+		"url": "https://images.unsplash.com/photo-1444080748397-f442aa95c3e5",
+		"thumbUrl": "https://images.unsplash.com/photo-1444080748397-f442aa95c3e5?ixlib=rb-0.3.5&s=59bc6d653fe14e940a995c93b644c8ef&auto=format&fit=crop&w=890&q=80",
+		"name": "Universe 3",
+		"category": "Universe"
+	    },
+		{
+		"author": "Bryan Goff",
+		"url": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86",
+		"thumbUrl": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2d8d433acb5dbf4d2478af28854ff90a&auto=format&fit=crop&w=750&q=80",
+		"name": "Universe 4",
+		"category": "Universe"
+	    },
+		{
+		"author": "Mark Basarab",
+		"url": "https://images.unsplash.com/photo-1470813740244-df37b8c1edcb",
+		"thumbUrl": "https://images.unsplash.com/photo-1470813740244-df37b8c1edcb?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2b76b1e6da83c1a0f59eebaa481e12aa&auto=format&fit=crop&w=751&q=80",
+		"name": "Universe 5",
+		"category": "Universe"
+	    },
+		{
+		"author": "Manouchehr Hejazi",
+		"url": "https://images.unsplash.com/photo-1499749143870-d101b3686e3e",
+		"thumbUrl": "https://images.unsplash.com/photo-1499749143870-d101b3686e3e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=72f117a871b5bd6db5726380272f466e&auto=format&fit=crop&w=750&q=80",
+		"name": "Universe 6",
+		"category": "Universe"
+	    },
+		{
+		"author": "Kristopher Roller",
+		"url": "https://images.unsplash.com/photo-1468276311594-df7cb65d8df6",
+		"thumbUrl": "https://images.unsplash.com/photo-1468276311594-df7cb65d8df6?ixlib=rb-0.3.5&s=d405b131f4caf1677d831f8ebfa9576c&auto=format&fit=crop&w=750&q=80",
+		"name": "Universe 7",
+		"category": "Universe"
+	    },
+		{
+		"author": "Teddy Kelley",
+		"url": "https://images.unsplash.com/photo-1467173572719-f14b9fb86e5f",
+		"thumbUrl": "https://images.unsplash.com/photo-1467173572719-f14b9fb86e5f?ixlib=rb-0.3.5&s=32915bf266ac28dc51612baa805d06c0&auto=format&fit=crop&w=751&q=80",
+		"name": "Universe 8",
+		"category": "Universe"
+	    },
+		{
+		"author": "Tyson Dudley",
+		"url": "https://images.unsplash.com/photo-1473376701383-7ad74b5611e1",
+		"thumbUrl": "https://images.unsplash.com/photo-1473376701383-7ad74b5611e1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2f2eaa53edd58a0292f9a1d32b7f54cb&auto=format&fit=crop&w=1500&q=80",
+		"name": "Universe 9",
+		"category": "Universe"
+	    },
+		{
+		"author": "NASA",
+		"url": "https://images.unsplash.com/photo-1457327289196-f38b88d97147",
+		"thumbUrl": "https://images.unsplash.com/photo-1457327289196-f38b88d97147?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2d7eaa5c490c923ceb7da8d1791c2cae&auto=format&fit=crop&w=1504&q=80",
+		"name": "Universe 10",
+		"category": "Universe"
+	    },
+		{
+		"author": "NASA",
+		"url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+		"thumbUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-0.3.5&s=95ce75e9d08a87493ed54df5c353542d&auto=format&fit=crop&w=752&q=80",
+		"name": "Universe 11",
+		"category": "Universe"
+	    },
+		{
+		"author": "NASA",
+		"url": "https://images.unsplash.com/photo-1447433865958-f402f562b843",
+		"thumbUrl": "https://images.unsplash.com/photo-1447433865958-f402f562b843?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=610f0c26ab32143f085d4488eced7b55&auto=format&fit=crop&w=752&q=80",
+		"name": "Universe 12",
+		"category": "Universe"
+	    },
+		{
+		"author": "NASA",
+		"url": "https://images.unsplash.com/photo-1446776858070-70c3d5ed6758",
+		"thumbUrl": "https://images.unsplash.com/photo-1446776858070-70c3d5ed6758?ixlib=rb-0.3.5&s=2424e4c6f15be1ee6f214c59ef3d19cd&auto=format&fit=crop&w=752&q=80",
+		"name": "Universe 13",
+		"category": "Universe"
+		},
+		{
+		"author": "Sweet Ice Cream Photography",
+		"url": "https://images.unsplash.com/photo-1467878993551-5b1d2717cdbd",
+		"thumbUrl": "https://images.unsplash.com/photo-1467878993551-5b1d2717cdbd",
+		"name": "Ars-en-Ré, France",
+		"category": "Universe"
+	    }
 		]
 }
